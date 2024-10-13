@@ -7,7 +7,7 @@ import java.util.HashSet; // ビンゴ番号の管理
 import java.util.Set;
 
 /* クラスBingoController コントローラ */
-public class BingoController {
+class BingoController {
     private BingoView view;
     private BingoModel model;
 
